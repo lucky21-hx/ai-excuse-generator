@@ -13,9 +13,8 @@ An AI-powered excuse generator built using Python, Streamlit, and Google Gemini 
 - Python  
 - Streamlit  
 - Google Generative AI (Gemini API)  
-- gTTS  
-
-## Project Structure
+- gTTS
+  
 ## Project Structure
 app.py  
 utils.py  
