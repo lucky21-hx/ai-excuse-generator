@@ -16,9 +16,31 @@ An AI-powered excuse generator built using Python, Streamlit, and Google Gemini 
 - gTTS  
 
 ## Project Structure
-app.py → Main Streamlit app  
-utils.py → Helper functions  
-requirements.txt → Dependencies
+## Project Structure
+app.py  
+utils.py  
+requirements.txt  
+
+## How to Run
+
+1. Install dependencies:
+pip install -r requirements.txt
+
+2. Set API key:
+
+Windows:
+set GEMINI_API_KEY=your_key
+
+Mac/Linux:
+export GEMINI_API_KEY=your_key
+
+3. Run:
+streamlit run app.py
+
+## Example
+
+Input: "I missed my class"  
+Output: AI generates a realistic excuse with voice + chat proof
 
 ## How to Run
 
