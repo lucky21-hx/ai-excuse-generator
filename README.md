@@ -36,5 +36,9 @@ export GEMINI_API_KEY=your_key
 3. Run the app:
 streamlit run app.py
 
+## Example Use Case
+Input: "Late for class"  
+Output: AI generates a realistic excuse + voice + chat proof
+
 ## Author
 Lucky Priya Choudhary
